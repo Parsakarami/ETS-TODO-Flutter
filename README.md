@@ -1,6 +1,6 @@
-# apppppppppp
+# ETS-TODO App
 
-A new Flutter project.
+TO-DO app made in flutter to test the open-source softwares like MetricsReloded, PMD, etc.
 
 ## Getting Started
 
